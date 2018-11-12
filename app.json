@@ -1,0 +1,24 @@
+{
+  "id": "nl.v-apps.auping",
+  "version": "1.0.0",
+  "compatibility": ">=1.5.0",
+  "sdk": 2,
+  "name": {
+    "en": "Connect"
+  },
+  "description": {
+    "en": "Connect"
+  },
+  "category": [
+    "appliances"
+  ],
+  "permissions": [],
+  "images": {
+    "large": "/assets/images/large.png",
+    "small": "/assets/images/small.png"
+  },
+  "author": {
+    "name": "Jurien Bosman",
+    "email": "j.bosman@auping.com"
+  }
+}
